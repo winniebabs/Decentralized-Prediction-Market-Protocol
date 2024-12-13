@@ -7,3 +7,5 @@ O
 tests/prediction-market.test.ts,3/b/3b14a75d262f48b83e3f0eab08e73dee3819cf3b
 E
 contracts/oracle.clar,3/c/3cf19cce7726142cf924f7cdbd4ae79592f1f8fc
+X
+(contracts/external-data-integration.clar,4/5/45ca3eb14f87532425e2e7a253ef240db133b7cd
