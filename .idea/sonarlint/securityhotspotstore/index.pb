@@ -11,3 +11,5 @@ X
 (contracts/external-data-integration.clar,4/5/45ca3eb14f87532425e2e7a253ef240db133b7cd
 D
 tests/oracle.test.ts,a/0/a01d33af3d01e43d4c5e519c62c3403f188dab8e
+W
+'tests/external-data-integration.test.ts,5/c/5ca56a528451e24a816b73080adabae1368a359a
